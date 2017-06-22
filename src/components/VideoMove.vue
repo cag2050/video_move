@@ -1,6 +1,6 @@
 <template>
 <div>
-    <div class="word">拖动视频能上下移动</div>
+    <div class="word">拖动视频能上下拖动(不能拖出包含 video 的容器)</div>
     <div class="container">
         <video class="video" id='videoDemo' src="http://gslb.miaopai.com/stream/Ql-FWzggS2fa9oGCDD-40IyDaMgG0x1J.mp4" controls autoplay="autoplay"></video>
     </div>
